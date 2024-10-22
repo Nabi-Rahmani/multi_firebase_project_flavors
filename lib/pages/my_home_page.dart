@@ -12,7 +12,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Hello  Nabi Rahmani ${F.title}',
+          'Hello  Nabi Rahmani Firebase & Favors ${F.title}',
         ),
       ),
     );
