@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116910715247",
+    "project_id": "fmulti-dev",
+    "storage_bucket": "fmulti-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116910715247:android:4dba679a47e6167569389a",
+        "android_client_info": {
+          "package_name": "com.example.multi_firebase_project_flavors.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvuLSryWj68v9Htl7yPhKLHcirducjn5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

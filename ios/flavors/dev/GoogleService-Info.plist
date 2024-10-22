@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDPJACZ-KdbNmZXr2eOseqMLJy3fehr8pI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>116910715247</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.multiFirebaseProjectFlavors.dev</string>
+	<key>PROJECT_ID</key>
+	<string>fmulti-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fmulti-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:116910715247:ios:59bbaab144cb0ca669389a</string>
+</dict>
+</plist>

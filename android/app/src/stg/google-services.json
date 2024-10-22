@@ -1,0 +1,29 @@
+{
+  "client": [
+    {
+      "api_key": [
+        {
+          "current_key": "AIzaSyD872bvYXcewR1xt8P_glkzaUZ88FP3Tpw"
+        }
+      ],
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.example.multi_firebase_project_flavors.stg"
+        },
+        "mobilesdk_app_id": "1:312185918341:android:0b39b1d8808ae565662aec"
+      },
+      "oauth_client": [],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  "project_info": {
+    "project_id": "fmulti-stg",
+    "project_number": "312185918341",
+    "storage_bucket": "fmulti-stg.appspot.com"
+  }
+}
